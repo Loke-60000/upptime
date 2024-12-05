@@ -22,19 +22,19 @@
     "url": "https://gadget-lab.fr",
     "icon": "https://icons.duckduckgo.com/ip3/gadget-lab.fr.ico",
     "slug": "gadget-lab-fr",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 5619,
-    "timeDay": 5619,
-    "timeWeek": 5619,
-    "timeMonth": 5619,
-    "timeYear": 5619,
+    "status": "up",
+    "uptime": "98.49%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "98.49%",
+    "time": 4729,
+    "timeDay": 4729,
+    "timeWeek": 4729,
+    "timeMonth": 4729,
+    "timeYear": 4729,
     "dailyMinutesDown": {
-      "2024-12-05": 1
+      "2024-12-05": 9
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-05": 570
+      "2024-12-05": 579
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-05": 570
+      "2024-12-05": 578
     }
   },
   {
