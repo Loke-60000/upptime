@@ -7,7 +7,7 @@ sites:
     url: https://lokman.fr
   - name: Hacker News
     url: https://news.ycombinator.com
-    - name: Gadget-lab.fr
+  - name: Gadget-lab.fr
     url: https://gadget-lab.fr
   - name: Jin-Joo
     url: https://www.jin-joo.fr/
