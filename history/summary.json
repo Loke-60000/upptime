@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gadget-lab.fr.ico",
     "slug": "gadget-lab-fr",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3209,
-    "timeDay": 197,
+    "timeDay": 168,
     "timeWeek": 3209,
     "timeMonth": 3209,
     "timeYear": 3209,
-    "dailyMinutesDown": {
-      "2024-12-06": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "gadget-lab.net",
@@ -54,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-06": 1388,
+      "2024-12-07": 13,
+      "2024-12-06": 1440,
       "2024-12-05": 585
     }
   },
@@ -82,18 +81,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.gadget-lab.net.ico",
     "slug": "searx",
     "status": "down",
-    "uptime": "31.46%",
+    "uptime": "30.46%",
     "uptimeDay": "43.09%",
-    "uptimeWeek": "31.46%",
-    "uptimeMonth": "31.46%",
-    "uptimeYear": "31.46%",
+    "uptimeWeek": "30.46%",
+    "uptimeMonth": "30.46%",
+    "uptimeYear": "30.46%",
     "time": 625,
     "timeDay": 625,
     "timeWeek": 625,
     "timeMonth": 625,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2024-12-06": 768,
+      "2024-12-07": 13,
+      "2024-12-06": 819,
       "2024-12-05": 585
     }
   },
