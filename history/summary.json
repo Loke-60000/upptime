@@ -22,7 +22,7 @@
     "url": "https://gadget-lab.fr",
     "icon": "https://icons.duckduckgo.com/ip3/gadget-lab.fr.ico",
     "slug": "gadget-lab-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
     "uptimeDay": "98.56%",
     "uptimeWeek": "98.99%",
@@ -34,6 +34,7 @@
     "timeMonth": 491,
     "timeYear": 693,
     "dailyMinutesDown": {
+      "2025-02-10": 0,
       "2025-02-09": 21,
       "2025-02-08": 14,
       "2025-02-07": 23,
@@ -94,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-10": 95,
+      "2025-02-10": 128,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
