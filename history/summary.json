@@ -22,12 +22,12 @@
     "url": "https://gadget-lab.fr",
     "icon": "https://icons.duckduckgo.com/ip3/gadget-lab.fr.ico",
     "slug": "gadget-lab-fr",
-    "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "78.67%",
+    "status": "down",
+    "uptime": "98.64%",
+    "uptimeDay": "78.66%",
     "uptimeWeek": "96.80%",
     "uptimeMonth": "98.25%",
-    "uptimeYear": "98.63%",
+    "uptimeYear": "98.64%",
     "time": 510,
     "timeDay": 198,
     "timeWeek": 172,
@@ -98,8 +98,7 @@
       "2024-12-26": 22,
       "2024-12-25": 57,
       "2024-12-24": 16,
-      "2024-12-21": 70,
-      "2024-12-20": 16
+      "2024-12-21": 70
     }
   },
   {
@@ -111,7 +110,7 @@
     "uptime": "11.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.93%",
+    "uptimeMonth": "43.96%",
     "uptimeYear": "11.14%",
     "time": 544,
     "timeDay": 458,
